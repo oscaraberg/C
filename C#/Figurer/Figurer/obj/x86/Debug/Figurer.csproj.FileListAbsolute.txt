@@ -1,0 +1,5 @@
+E:\C#\Figurer\Figurer\bin\Debug\Figurer.exe
+E:\C#\Figurer\Figurer\bin\Debug\Figurer.pdb
+E:\C#\Figurer\Figurer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\Figurer\Figurer\obj\x86\Debug\Figurer.exe
+E:\C#\Figurer\Figurer\obj\x86\Debug\Figurer.pdb

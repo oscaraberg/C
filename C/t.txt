@@ -1,0 +1,6 @@
+1 agg 4
+3 ananas 7
+4 glas 5
+2 sylt 12
+7 hallon 23
+5 salsa sas 5

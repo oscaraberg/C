@@ -1,0 +1,5 @@
+J:\C#\testprov\testprov\bin\Debug\testprov.exe
+J:\C#\testprov\testprov\bin\Debug\testprov.pdb
+J:\C#\testprov\testprov\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\C#\testprov\testprov\obj\x86\Debug\testprov.exe
+J:\C#\testprov\testprov\obj\x86\Debug\testprov.pdb

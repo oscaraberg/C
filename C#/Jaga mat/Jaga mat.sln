@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaga mat", "Jaga mat\Jaga mat\Jaga mat.csproj", "{0874C279-0034-41B0-9A4D-1F0D0FCE4F03}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Jaga matContent", "Jaga mat\Jaga matContent\Jaga matContent.contentproj", "{DD2AD92C-8533-4855-A5BF-0B51408A1BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0874C279-0034-41B0-9A4D-1F0D0FCE4F03}.Debug|x86.ActiveCfg = Debug|x86
+		{0874C279-0034-41B0-9A4D-1F0D0FCE4F03}.Debug|x86.Build.0 = Debug|x86
+		{0874C279-0034-41B0-9A4D-1F0D0FCE4F03}.Release|x86.ActiveCfg = Release|x86
+		{0874C279-0034-41B0-9A4D-1F0D0FCE4F03}.Release|x86.Build.0 = Release|x86
+		{DD2AD92C-8533-4855-A5BF-0B51408A1BE1}.Debug|x86.ActiveCfg = Debug|x86
+		{DD2AD92C-8533-4855-A5BF-0B51408A1BE1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
